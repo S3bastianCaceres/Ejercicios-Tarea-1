@@ -43,6 +43,7 @@ Ejercicios capitulo 2
 
 SECCIÓN 2–2 Carga eléctrica
 <br />
+
 **1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 Dato:
@@ -65,6 +66,7 @@ SECCIÓN 2–3 Voltaje, corriente y resistencia
 <br />
 **7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
 un resistor?**
+
 
 Datos:
 <br />
@@ -125,7 +127,7 @@ cada resistor tiene una tolerancia del 5 por ciento**
 
 SECCIÓN 2–6 El circuito eléctrico
 <br />
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+**31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 [![Imagen-1-ejercicio-31.png](https://i.postimg.cc/9FFYvsLz/Imagen-1-ejercicio-31.png)](https://postimg.cc/nMgmmSbt)
 <br />
 La corriente pasa através de la lámpara 2.
@@ -135,8 +137,8 @@ La corriente pasa através de la lámpara 2.
 
 SECCIÓN 2–7 Mediciones de circuito básicas
 <br />
-37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
-fuente en la figura 2-72.
+**37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
+fuente en la figura 2-72.**
 [![Imagen-2-ejercicio-37.png](https://i.postimg.cc/05JzrnrZ/Imagen-2-ejercicio-37.png)](https://postimg.cc/7bwHWg3T)
 <br />
 Voltimero: se coloco en paralelo con respecto a la fuente.
@@ -147,7 +149,7 @@ Amperimetro: se coloco en serie con respecto a la fuente.
 
 
 
-43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
+**43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
 <br />
 La lectura es de 250V
