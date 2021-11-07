@@ -39,9 +39,10 @@
 
 # CAPITULO 2
 
-**SECCIÓN 2–2 Carga eléctrica**
+Ejercicios capitulo 2
 
-**1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
+SECCIÓN 2–2 Carga eléctrica
+1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 
 Dato:
 <br />
@@ -54,24 +55,13 @@ Formula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?Q=\frac{29&space;electrones}{6,25\times10^{-18}\frac{electrones}{C}}" title="Q=\frac{29 electrones}{6,25\times10^{-18}\frac{electrones}{C}}" />
 <br /><img src="https://latex.codecogs.com/svg.image?Q=4,64\times10^{-18}C" title="Q=4,64\times10^{-18}C" />
-##### 3. ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?
->![imagen](https://user-images.githubusercontent.com/93798427/140624935-0facf869-abbd-4fd4-8046-ffc35fa2e28e.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140624942-4f237f25-2f95-4cf6-9a55-63ab0ac00fbe.png)
 
 
-**SECCIÓN 2–3 Voltaje, corriente y resistencia**
+
+
+
+SECCIÓN 2–3 Voltaje, corriente y resistencia
 <br />
-
-**5. Determine el voltaje en cada uno de los siguientes casos:**
-
-<img src="https://latex.codecogs.com/svg.image?a)\textit{&space;10J/C&space;=&space;Por&space;cada&space;1C&space;de&space;carga&space;estan&space;disponibles&space;10J&space;de&space;energia}" title="a)\textit{ 10J/C = Por cada 1C de carga estan disponibles 10J de energia}" />
-<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{10J}{1C}=10V" title="V=\frac{W}{Q}=\frac{10J}{1C}=10V" />
-<img src="https://latex.codecogs.com/svg.image?b)\textit{&space;5J/2C&space;=&space;Por&space;cada&space;2C&space;de&space;carga&space;estan&space;disponibles&space;5J&space;de&space;energia}" title="b)\textit{ 5J/2C = Por cada 2C de carga estan disponibles 5J de energia}" />
-<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{5J}{2C}=2.5V" title="V=\frac{W}{Q}=\frac{5J}{2C}=2.5V" />
-<img src="https://latex.codecogs.com/svg.image?c)\textit{&space;100J/25C&space;=&space;Por&space;cada&space;25C&space;de&space;carga&space;estan&space;disponibles&space;100J&space;de&space;energia}" title="c)\textit{ 100J/25C = Por cada 25C de carga estan disponibles 100J de energia}" />
-<img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{100J}{25C}=4V" title="V=\frac{W}{Q}=\frac{100J}{25C}=4V" />
-
-
 7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
 un resistor?
 
@@ -83,24 +73,14 @@ Fórmula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{800&space;J}{40&space;C}=20\frac{J}{C}=20V" title="V=\frac{W}{Q}=\frac{800 J}{40 C}=20\frac{J}{C}=20V" />
 
-##### 9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
-> ![imagen](https://user-images.githubusercontent.com/93798427/140625227-729a82e5-cad3-4e67-8333-d76952ba271f.png)
 
 
->![imagen](https://user-images.githubusercontent.com/93798427/140625251-26a3362c-2ba2-44ba-819e-cde34bb3c0d2.png)
 
 
->![imagen](https://user-images.githubusercontent.com/93798427/140625263-771d9f7a-2652-47e4-970c-9fdadca1bd03.png)
 
 
->![imagen](https://user-images.githubusercontent.com/93798427/140625188-0569caea-53cf-4e36-963b-ff9a9c3a8dff.png)
 
 
->![imagen](https://user-images.githubusercontent.com/93798427/140625195-5c39ef34-a7f2-4877-ad5d-8a3dad8ac488.png)
-
-**11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?**
-
-<img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}=\frac{0.6C}{3s}=0.2A" title="I=\frac{Q}{t}=\frac{0.6C}{3s}=0.2A" />
 
 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
 
@@ -112,66 +92,22 @@ Fórmula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}\Rightarrow&space;Q=(I)(t)=(1.5A)(0.1s)=0.15C" title="I=\frac{Q}{t}\Rightarrow Q=(I)(t)=(1.5A)(0.1s)=0.15C" />
 
-##### 15. Determine la conductancia para cada uno de los siguientes valores de resistencia
-![imagen](https://user-images.githubusercontent.com/93798427/140625278-ccc79a47-8a8c-47cf-9ac9-3ee0f5b745a8.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625324-69a0ca88-09e2-43ac-9c06-866a8d89d9ca.png)
 
 
-![imagen](https://user-images.githubusercontent.com/93798427/140625285-4c36be68-9233-4fd3-a452-a763a3eb100a.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625334-f92f89e4-a57f-458d-90af-d7cdf512dba6.png)
 
-
-![imagen](https://user-images.githubusercontent.com/93798427/140625289-6b72d50f-050c-443d-93c7-9976203ab871.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625340-a5768d1e-8f8d-4258-a71d-49e7c335c446.png)
 
 SECCIÓN 2–4 Fuentes de voltaje y de corriente
 <br />
-
-**17. Enliste cuatro fuentes de voltaje comunes.**
-
-**Fuente de potencia de cd:** Las fuentes de corriente directa o fuentes de alimentación son un dispositivo que convierte la tensión alterna de la red de suministro, en una o varias tensiones, prácticamente continuas.
-
-**Celdas solares:** La operación de las celdas solares se basa en el efecto fotovoltaico, que es el proceso mediante el cual la energía luminosa se convierte directamente en energía eléctrica.
-
-**Generador:** Los generadores eléctricos convierten la energía mecánica en energía eléctrica por medio de un principio llamado inducción electromagnética.
-
-**Batería:** Una batería es un tipo de fuente de voltaje que convierte energía química en energía eléctrica.
-
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
 
 La fuente electrónica de potencia controla voltaje y corriente, convierte el voltaje de (ca) en voltaje de (cd).
 
-##### 21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
-![imagen](https://user-images.githubusercontent.com/93798427/140625387-be8324f6-1ce8-4ae1-875b-bfa76264d659.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625498-724f79b5-7d1b-41cc-ba78-2b2019bb27dc.png)
-![imagen](https://user-images.githubusercontent.com/93798427/140625393-3b47bd2b-7a7f-42f6-b684-6ba34f2fac24.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625511-d36b096c-a1a2-4bf6-b250-83ad34c0420e.png)
+
+
+
 
 SECCIÓN 2–5 Resistores
 <br />
-
-**23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:**
-
-**a)** <img src="https://latex.codecogs.com/svg.image?330\Omega&space;=naranja,&space;naranja,&space;cafe,&space;oro" title="330\Omega =naranja, naranja, cafe, oro" /> 
-
-![image](https://user-images.githubusercontent.com/93739242/140631115-295ccfa2-a00a-4438-b060-76977874cd8f.png)
-
-**b)** <img src="https://latex.codecogs.com/svg.image?2.2&space;k\Omega&space;=rojo,&space;rojo,&space;rojo,&space;oro" title="2.2 k\Omega =rojo, rojo, rojo, oro" /> 
-
-![image](https://user-images.githubusercontent.com/93739242/140631219-1207e2b0-f255-476c-a8e3-660cad9bb7bb.png)
-
-**c)** <img src="https://latex.codecogs.com/svg.image?56&space;k\Omega&space;=verde,&space;azul,&space;naranja,&space;oro" title="56 k\Omega =verde, azul, naranja, oro" />
-
-![image](https://user-images.githubusercontent.com/93739242/140631225-63e2a8ac-fb52-4ff8-974e-e8a133364cbd.png)
-
-**d)** <img src="https://latex.codecogs.com/svg.image?100&space;k\Omega&space;=cafe,&space;negro,&space;amarillo,&space;oro" title="100 k\Omega =cafe, negro, amarillo, oro" />
-
-![image](https://user-images.githubusercontent.com/93739242/140631310-5cec4a74-9311-49e0-9697-143dd3f4821e.png)
-
-**e)** <img src="https://latex.codecogs.com/svg.image?39&space;k\Omega&space;=naranja,&space;blanco,&space;naranja,&space;oro" title="39 k\Omega =naranja, blanco, naranja, oro" />
-
-![image](https://user-images.githubusercontent.com/93739242/140631327-435a7830-bc84-497a-904c-e0b8a6ef4d6b.png)
-
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que 
 cada resistor tiene una tolerancia del 5 por ciento
 
@@ -179,22 +115,12 @@ cada resistor tiene una tolerancia del 5 por ciento
 <img src="https://latex.codecogs.com/svg.image?b)270K\Omega=270000\Omega&space;&space;\rightarrow&space;rojo;&space;violeta;&space;amarillo;&space;oro" title="b)270K\Omega=270000\Omega \rightarrow rojo; violeta; amarillo; oro" />
 <img src="https://latex.codecogs.com/svg.image?c)5.1M\Omega=5100000\Omega&space;&space;\rightarrow&space;Verde;&space;cafe;&space;verde;&space;oro" title="c)5.1M\Omega=5100000\Omega \rightarrow Verde; cafe; verde; oro" />
 
-##### 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento
-
-![imagen](https://user-images.githubusercontent.com/93798427/140625557-dadd1dd5-4ec2-4735-a203-a77bc8906b02.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625827-12cd7b1b-83ed-4c5f-870d-3a133ce670a6.png)
 
 
-![imagen](https://user-images.githubusercontent.com/93798427/140625567-d65e285d-4bcd-4bf1-bb81-45b275de85c6.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625831-cef5a410-4492-4ca1-b544-f63b46f61866.png)
 
 
-![imagen](https://user-images.githubusercontent.com/93798427/140625572-3e9264eb-3819-461b-a6e7-27ffad93feec.png)
->![imagen](https://user-images.githubusercontent.com/93798427/140625900-b3144551-1d82-41ff-b970-d85ee2097ac3.png)
 
-**29. ¿Cuál es la resistencia indicada por 4K7?**
 
-<img src="https://latex.codecogs.com/svg.image?4K7=4.7k\Omega&space;" title="4K7=4.7k\Omega " />
 
 SECCIÓN 2–6 El circuito eléctrico
 <br />
@@ -202,16 +128,9 @@ SECCIÓN 2–6 El circuito eléctrico
 [![Imagen-1-ejercicio-31.png](https://i.postimg.cc/9FFYvsLz/Imagen-1-ejercicio-31.png)](https://postimg.cc/nMgmmSbt)
 <br />
 La corriente pasa através de la lámpara 2.
-##### 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito
-![imagen](https://user-images.githubusercontent.com/93798427/140625924-23ee640f-9486-4433-a9be-b73720979755.png)
 
-> En el caso de la B, debido a que se cierra el circuito 
 
-**35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 
-**VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1** 
-
-![image](https://user-images.githubusercontent.com/93739242/140631559-6cf34cbb-abbc-4ead-9bf7-d5ae1fbbc95c.png)
 
 SECCIÓN 2–7 Mediciones de circuito básicas
 <br />
@@ -223,36 +142,11 @@ Voltimero: se coloco en paralelo con respecto a la fuente.
 <br />
 Amperimetro: se coloco en serie con respecto a la fuente.
 
-##### 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?¿En la posición 2?
-![imagen](https://user-images.githubusercontent.com/93798427/140626208-42e02d32-9731-4946-8890-57d6bf8c59ef.png)
->posición 1: V1=0 Y V2=Vs
 
->posición 2: V1=Vs debido a que el circuito se cierra y V2=0
 
-**41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
 
-![image](https://user-images.githubusercontent.com/93739242/140631597-760ffba9-ffd5-4eb5-91fe-ecd0067ef587.png)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
 <br />
 La lectura es de 250V
-##### 45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
- ![imagen](https://user-images.githubusercontent.com/93798427/140626338-aba0707b-f31e-4195-ad9c-90460e300af5.png)
- 
->![imagen](https://user-images.githubusercontent.com/93798427/140626542-8343bc15-65bb-4d6c-bb3e-30369656559f.png)
-
-
- ![imagen](https://user-images.githubusercontent.com/93798427/140626347-88c01e56-98c4-4c85-97ec-03bb246ed2bd.png)
- 
->![imagen](https://user-images.githubusercontent.com/93798427/140626565-01954e5c-d264-4378-b363-7872ef39667d.png)
-
-
-![imagen](https://user-images.githubusercontent.com/93798427/140626352-a050ae9d-8d9b-4448-9a3f-99f43f55c2dd.png)
-
-
->![imagen](https://user-images.githubusercontent.com/93798427/140626573-b87e85b9-3b27-4da7-a066-a1df61800a6c.png)
-
-**47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. (a) I1 (b) V1 (c) R1**
-
-![image](https://user-images.githubusercontent.com/93739242/140631625-887e6b30-a00e-4fa0-912d-46fd73e837a9.png)
