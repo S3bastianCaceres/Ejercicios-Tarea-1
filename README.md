@@ -42,6 +42,7 @@
 Ejercicios capitulo 2
 
 SECCIÓN 2–2 Carga eléctrica
+<br />
 **1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 Dato:
@@ -62,8 +63,8 @@ Formula:
 
 SECCIÓN 2–3 Voltaje, corriente y resistencia
 <br />
-7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
-un resistor?
+**7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
+un resistor?**
 
 Datos:
 <br />
@@ -81,8 +82,8 @@ Fórmula:
 
 
 
-
-13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+<br />
+**13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?**
 
 Datos:
 <br />
@@ -98,7 +99,7 @@ Fórmula:
 
 SECCIÓN 2–4 Fuentes de voltaje y de corriente
 <br />
-19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+**19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
 
 La fuente electrónica de potencia controla voltaje y corriente, convierte el voltaje de (ca) en voltaje de (cd).
 
@@ -108,8 +109,8 @@ La fuente electrónica de potencia controla voltaje y corriente, convierte el vo
 
 SECCIÓN 2–5 Resistores
 <br />
-25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que 
-cada resistor tiene una tolerancia del 5 por ciento
+**25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que 
+cada resistor tiene una tolerancia del 5 por ciento**
 
 <img src="https://latex.codecogs.com/svg.image?a)0.47\Omega&space;\rightarrow&space;amarillo;&space;violeta;&space;plata;&space;oro" title="a)0.47\Omega \rightarrow amarillo; violeta; plata; oro" />
 <img src="https://latex.codecogs.com/svg.image?b)270K\Omega=270000\Omega&space;&space;\rightarrow&space;rojo;&space;violeta;&space;amarillo;&space;oro" title="b)270K\Omega=270000\Omega \rightarrow rojo; violeta; amarillo; oro" />
