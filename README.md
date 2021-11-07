@@ -11,7 +11,7 @@
 
 <H2>Ejercicios capitulo 1</H2>
 
-**Sección 1-2 Notación científica**
+<H3>Sección 1-2 Notación científica</H3>
 
 **1. Exprese cada uno de los números siguientes en notación científica:**
 
@@ -50,7 +50,7 @@
 
 <H2>Ejercicios capitulo 2</H2>.
 
-SECCIÓN 2–2 Carga eléctrica
+<H3>SECCIÓN 2–2 Carga eléctrica</H3>
 <br />
 
 **1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
@@ -71,7 +71,7 @@ Formula:
 
 
 
-SECCIÓN 2–3 Voltaje, corriente y resistencia
+<H3>SECCIÓN 2–3 Voltaje, corriente y resistencia</H3>
 <br />
 
 **7.¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?**
@@ -95,7 +95,7 @@ Fórmula:
 <img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}\Rightarrow&space;Q=(I)(t)=(1.5A)(0.1s)=0.15C" title="I=\frac{Q}{t}\Rightarrow Q=(I)(t)=(1.5A)(0.1s)=0.15C" />
 
 
-SECCIÓN 2–4 Fuentes de voltaje y de corriente
+<H3>SECCIÓN 2–4 Fuentes de voltaje y de corriente</H3>
 <br />
 
 **19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
@@ -103,7 +103,7 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 La fuente electrónica de potencia controla voltaje y corriente, convierte el voltaje de (ca) en voltaje de (cd).
 
 
-SECCIÓN 2–5 Resistores
+<H3>SECCIÓN 2–5 Resistores</H3>
 <br />
 
 **25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento**
@@ -119,7 +119,7 @@ SECCIÓN 2–5 Resistores
 
 
 
-SECCIÓN 2–6 El circuito eléctrico
+<H3>SECCIÓN 2–6 El circuito eléctrico</H3>
 <br />
 
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
@@ -130,7 +130,7 @@ La corriente pasa através de la lámpara 2.
 
 
 
-SECCIÓN 2–7 Mediciones de circuito básicas
+<H3>SECCIÓN 2–7 Mediciones de circuito básicas</H3>
 <br />
 
 **37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
