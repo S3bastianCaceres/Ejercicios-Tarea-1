@@ -1,6 +1,12 @@
 # Ejercicios-Tarea-1
  CAPITULO 1 Y 2 
-# Capitulo 1
+<H1> Texto de prueba (H1)</H1>.
+<H2> Texto de prueba (H2)</H2>
+<H3> Texto de prueba (H3)</H3>
+<H4> Texto de prueba (H4)</H4>
+<H5> Texto de prueba (H5)</H5>
+<H6> Texto de prueba (H6)</H6>
+<H1>**Capitulo 1**(H1)</H1>.
 
 **Sección 1-2 Notación científica**
 
