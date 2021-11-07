@@ -42,7 +42,7 @@
 Ejercicios capitulo 2
 
 SECCIÓN 2–2 Carga eléctrica
-**1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+**1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?**
 
 Dato:
 <br />
