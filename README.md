@@ -6,7 +6,10 @@
 <H4> Texto de prueba (H4)</H4>
 <H5> Texto de prueba (H5)</H5>
 <H6> Texto de prueba (H6)</H6>
-<H1>**Capitulo 1**(H1)</H1>.
+
+<H1>Capitulo 1</H1>
+
+<H2>Ejercicios capitulo 1</H2>
 
 **Sección 1-2 Notación científica**
 
@@ -43,9 +46,9 @@
 <img src="https://latex.codecogs.com/svg.image?c)(5,6\times10^{-8})&plus;(4,6\times10^{-9})=(5,6\times10^{-8})&plus;(0,46\times10^{-8})=6.06\times10^{-8}" title="c)(5,6\times10^{-8})+(4,6\times10^{-9})=(5,6\times10^{-8})+(0,46\times10^{-8})=6.06\times10^{-8}" />	
 
 
-# CAPITULO 2
+<H1>Capitulo 2</H1>.
 
-Ejercicios capitulo 2
+<H2>Ejercicios capitulo 2</H2>.
 
 SECCIÓN 2–2 Carga eléctrica
 <br />
