@@ -64,9 +64,8 @@ Formula:
 
 SECCIÓN 2–3 Voltaje, corriente y resistencia
 <br />
-**7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
-un resistor?**
 
+**7.¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?**
 
 Datos:
 <br />
@@ -76,15 +75,6 @@ Fórmula:
 <br />
 <img src="https://latex.codecogs.com/svg.image?V=\frac{W}{Q}=\frac{800&space;J}{40&space;C}=20\frac{J}{C}=20V" title="V=\frac{W}{Q}=\frac{800 J}{40 C}=20\frac{J}{C}=20V" />
 
-
-
-
-
-
-
-
-
-<br />
 **13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?**
 
 Datos:
@@ -96,23 +86,18 @@ Fórmula:
 <img src="https://latex.codecogs.com/svg.image?I=\frac{Q}{t}\Rightarrow&space;Q=(I)(t)=(1.5A)(0.1s)=0.15C" title="I=\frac{Q}{t}\Rightarrow Q=(I)(t)=(1.5A)(0.1s)=0.15C" />
 
 
-
-
-
 SECCIÓN 2–4 Fuentes de voltaje y de corriente
 <br />
+
 **19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?**
 
 La fuente electrónica de potencia controla voltaje y corriente, convierte el voltaje de (ca) en voltaje de (cd).
 
 
-
-
-
 SECCIÓN 2–5 Resistores
 <br />
-**25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que 
-cada resistor tiene una tolerancia del 5 por ciento**
+
+**25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento**
 
 <img src="https://latex.codecogs.com/svg.image?a)0.47\Omega&space;\rightarrow&space;amarillo;&space;violeta;&space;plata;&space;oro" title="a)0.47\Omega \rightarrow amarillo; violeta; plata; oro" />
 <img src="https://latex.codecogs.com/svg.image?b)270K\Omega=270000\Omega&space;&space;\rightarrow&space;rojo;&space;violeta;&space;amarillo;&space;oro" title="b)270K\Omega=270000\Omega \rightarrow rojo; violeta; amarillo; oro" />
@@ -127,6 +112,7 @@ cada resistor tiene una tolerancia del 5 por ciento**
 
 SECCIÓN 2–6 El circuito eléctrico
 <br />
+
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 [![Imagen-1-ejercicio-31.png](https://i.postimg.cc/9FFYvsLz/Imagen-1-ejercicio-31.png)](https://postimg.cc/nMgmmSbt)
 <br />
@@ -137,17 +123,13 @@ La corriente pasa através de la lámpara 2.
 
 SECCIÓN 2–7 Mediciones de circuito básicas
 <br />
-**37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
-fuente en la figura 2-72.**
+
+**37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
 [![Imagen-2-ejercicio-37.png](https://i.postimg.cc/05JzrnrZ/Imagen-2-ejercicio-37.png)](https://postimg.cc/7bwHWg3T)
 <br />
 Voltimero: se coloco en paralelo con respecto a la fuente.
 <br />
 Amperimetro: se coloco en serie con respecto a la fuente.
-
-
-
-
 
 **43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 [![Imagen-3-ejercicio-43.png](https://i.postimg.cc/sxpfmnhr/Imagen-3-ejercicio-43.png)](https://postimg.cc/GTm1hxK7)
